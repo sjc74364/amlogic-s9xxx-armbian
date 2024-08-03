@@ -190,6 +190,7 @@ on:
         type: choice
         options:
           - ophub/kernel
+          - sjc74364/kernel
       kernel_usage:
         description: "Set the tags of the stable kernel."
         required: false
